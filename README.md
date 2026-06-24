@@ -133,6 +133,8 @@ HP LIFE
 
 Forage
 
+Tata
+
 Deloitte
 
 Internshala
