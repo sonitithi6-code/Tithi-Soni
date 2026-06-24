@@ -28,17 +28,84 @@ Machine Learning
 
 ## 📊 Featured Projects
 
-📈 User Journey Funnel Analysis
+### 📈 User Journey Funnel Analysis
+**Tools:** SQL, Python, Excel, Power BI
+- Customer conversion funnel analysis
+- Device-wise and traffic source analysis
+- Statistical testing and customer segmentation
+- Interactive Power BI dashboard with business recommendations
 
-📉 Customer Churn Analysis
+---
 
-🏦 Banking Transaction Analytics
+### 📉 Customer Churn Analysis & Retention Strategy
+**Tools:** Excel, Power BI, Statistical Analysis
+- Exploratory Data Analysis (EDA)
+- Customer segmentation and churn analysis
+- Hypothesis testing (t-test & chi-square)
+- Interactive dashboard with retention strategies
 
-🎬 Netflix Dashboard
+---
 
-🏆 Nobel Prize Analysis
+### 🏦 Banking Transaction Analytics
+**Tools:** SQL, SQLite
+- SQL joins, aggregations, subqueries, and window functions
+- Customer segmentation and transaction analysis
+- High-value transaction detection
+- Business insights for decision-making
 
-📊 Power BI Sales Dashboard
+---
+
+### 🎬 Netflix Content Analysis Dashboard
+**Tools:** Microsoft Excel
+- Data cleaning and preprocessing
+- Pivot Tables and advanced Excel functions
+- Interactive dashboard with KPIs and slicers
+- Content trend analysis and business insights
+
+---
+
+### 🏆 Nobel Prize Data Analysis
+**Tools:** Python, Pandas, Matplotlib, Seaborn
+- Exploratory Data Analysis (EDA)
+- Trend analysis and statistical visualizations
+- Heatmaps and distribution plots
+- Data storytelling through visual insights
+
+---
+
+### 🌸 Iris Dataset Exploratory Data Analysis
+**Tools:** R, ggplot2
+- Statistical visualization
+- Histograms, scatter plots, boxplots, and violin plots
+- Species-wise feature analysis
+- Exploratory Data Analysis using R
+
+---
+
+### 📊 Power BI Sales Dashboard
+**Tools:** Power BI
+- Interactive business dashboard
+- KPI reporting and visualization
+- Data modelling and transformation
+- Business performance analysis
+
+---
+
+### 🛒 Amazon Sales Data Visualization
+**Tools:** Julius, Data Visualization
+- Sales trend analysis
+- Interactive 3D visualizations
+- Business insights and storytelling
+- Regional and product performance analysis
+
+---
+
+### 🎮 Rock Paper Scissors Game
+**Tools:** R Programming
+- Interactive command-line game
+- Conditional statements and loops
+- User input handling
+- Logical programming concepts
 
 ---
 
