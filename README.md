@@ -1,29 +1,43 @@
 # Hi 👋 I'm Tithi Soni
 
-🎓 B.Sc. Statistics Student | Aspiring Data Analyst
+🎓 B.Sc. Statistics Student 
 
 I enjoy solving business problems through data analysis, dashboards, statistics and machine learning.
 
 ---
 
-## 💻 Skills
+## 🛠️ Technical Skills
 
-Python
+### Programming
+- Python
+- SQL
+- R
 
-SQL
+### Data Analytics
+- Excel
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- Scikit-learn
 
-R
+### Statistics
+- Hypothesis Testing
+- Data Cleaning
+- Data Visualization
+- Predictive Analytics
+- Statistical Analysis
 
-Power BI
+### Databases
+- SQLite
+- SQL
 
-Tableau
-
-Excel
-
-Statistics
-
-Machine Learning
-
+### Soft Skills
+- Problem Solving
+- Critical Thinking
+- Analytical Thinking
+- Communication
+- Presentation Skills
 ---
 
 ## 📊 Featured Projects
@@ -111,43 +125,89 @@ Machine Learning
 
 ## 💼 Experience
 
-✔ Data Analytics Intern — Linde Engineering
+### 📊 Data Analytics Intern
+**Linde Engineering Pvt. Ltd.** *(Jan 2026 – Feb 2026)*
 
-✔ Data Analyst Intern — Unified Mentor
+- Analyzed organizational datasets to generate business insights.
+- Developed interactive dashboards for reporting and visualization.
+- Identified trends and patterns to support business decisions.
 
-✔ AI/ML Intern — Plasmid Innovations
+---
 
-✔ Data Science Trainee — Internshala
+### 📈 Data Analyst Intern
+**Unified Mentor Pvt. Ltd.** *(Sep 2025 – Dec 2025)*
+
+- Performed end-to-end data analysis on real-world datasets.
+- Conducted data cleaning, EDA, and visualization.
+- Created reports and dashboards using Excel and Python.
+- Presented actionable business insights.
+
+---
+
+### 🤖 AI/ML Intern
+**Plasmid Innovations Ltd.** *(Apr 2025 – Jun 2025)*
+
+- Developed machine learning models using Python and Scikit-learn.
+- Worked on feature selection and model evaluation.
+- Assisted in predictive analytics projects.
+
+---
+
+### 📚 Data Science Trainee
+**Internshala** *(Feb 2025 – May 2025)*
+
+- Built predictive models.
+- Created dashboards using Power BI.
+- Performed data analysis using Python.
+- Collaborated on business analytics projects.
 
 ---
 
 ## 📜 Certifications
 
-IBM
+### 📊 Data Analytics & Data Science
+- Data Science Training – Internshala
+- Data Science & Analytics – HP LIFE
+- Data Analytics Internship – Unified Mentor
+- Data Analytics Internship – Linde Engineering
+- Data Analytics using Excel – Newton School
 
-Google Cloud
+### 📈 Business Intelligence & Visualization
+- Power BI – Office Master
+- AI Dashboards using MS Office – SkillNation
+- Data Visualization – Tata (Forage)
+- GenAI Powered Data Analytics – Tata (Forage)
 
-Microsoft
+### 💻 Programming
+- Python using AI – AI For Techies
+- C Programming – Amee Computer Classes
+- Innovation with Google Cloud AI – Google Cloud & Simplilearn
 
-HP LIFE
+### 📑 Microsoft & Excel
+- Microsoft Excel using AI – Office Master
+- Excel Automation using ChatGPT – Microsoft & Simplilearn
 
-Forage
+### 💼 Job Simulations
+- Deloitte Data Analytics Job Simulation
+- Deloitte Cyber Job Simulation
+- Data Labelling Job Simulation – Forage
 
-Tata
+### 🌱 Others
+- Social Entrepreneurship – Younity
+---
+## 🎓 Education
 
-Deloitte
+**Bachelor of Science (B.Sc.) – Statistics**
 
-Internshala
+The Maharaja Sayajirao University of Baroda
 
-Power BI
+📍 Vadodara, Gujarat
 
-Excel
-
-Python
+**2023 – 2027**
 
 ---
 
-## 📫 Contact
+## 📫 Connect with me
 
 Email:
 sonitithi6@gmail.com
